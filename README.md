@@ -28,8 +28,9 @@ Welcome to the Open Extraction of UA Volt Driver Software repository. This proje
    - Restart your computer to ensure that the drivers are properly loaded.
 
 ## Compatibility
-- The software has been tested on various operating systems.
+- The software has been tested on Win10-Win11x64
 - Ensure that your system meets the minimum requirements for installation.
+- Tested with Volt1 and Volt2 units
 
 ## Contributing
 We welcome contributions and suggestions to improve this project. Please read `CONTRIBUTING.md` for guidelines on how to submit contributions.
