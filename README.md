@@ -7,6 +7,7 @@ Welcome to the Open Extraction of UA Volt Driver Software repository. This proje
 - **Offline Installation**: Recognizing the need for an offline installation method for environments where internet access is limited or non-existent.
 - **No Account Requirement**: We understand the inconvenience and privacy concerns associated with mandatory account creation. This project eliminates the need for an account, ensuring privacy and ease of access.
 - **No Need For iLok/PACE**: Traditional installation methods require iLok/PACE, which can be cumbersome for some users or clash with existing drivers. This project provides a solution that eliminates these requirements, making the installation process more straightforward.
+- **True GDPR Compliance**: Several UA products violate the GDPR currently by requring the collection of personal data for a purchased service, or function. This solution allows users to proceed with using their purchased product and allows UA to avoid potential litigation.
 
 ## Features
 - **Complete Binary Package**: The software is packaged as a complete binary, ensuring that all necessary components are included for a successful installation.
